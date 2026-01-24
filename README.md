@@ -85,4 +85,4 @@ The Jupyter Notebook (`.ipynb`) is structured into the following analytical step
 
 ## License
 
-This project is available for academic and educational use. Please cite the original paper if you use this code or methodology in your work.
+Please refer to LICENSE.md for copyright notice and usage restrictions. 
