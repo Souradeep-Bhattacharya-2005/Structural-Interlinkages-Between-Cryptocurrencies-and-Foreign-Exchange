@@ -1,8 +1,8 @@
-# Replication Code: Structural Interlinkages Between Cryptocurrencies and Foreign Exchange
+# Replication Code & Mathematical Appendix: Structural Interlinkages Between Cryptocurrencies and Foreign Exchange
 
 ## Overview
 
-This repository contains the Python code and datasets required to replicate the empirical analysis presented in the paper: **"Structural Interlinkages Between Cryptocurrencies and Foreign Exchange: Evidence From Volatility and Returns Spillovers."**
+This repository contains the mathematical appendix, Python code and datasets required to replicate the empirical analysis presented in the paper: **"Structural Interlinkages Between Cryptocurrencies and Foreign Exchange: Evidence From Volatility and Returns Spillovers."**
 
 The analysis investigates the transmission of returns and volatility shocks between leading cryptocurrencies (Bitcoin, Ethereum) and major foreign exchange currency pairs using EGARCH modeling and Generalized Forecast Error Variance Decomposition (FEVD) based on Vector Autoregression (VAR) models.
 
